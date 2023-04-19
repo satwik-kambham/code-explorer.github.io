@@ -19,6 +19,14 @@ toc: true
 
 Create new content for your site:
 
+```python
+import numpy as np
+x = 10
+
+def f():
+  ...
+```
+
 ```bash
 npm run create [path] [flags]
 ```

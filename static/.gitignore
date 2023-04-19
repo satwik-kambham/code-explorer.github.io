@@ -1,0 +1,7 @@
+fonts
+icons
+
+*.aux
+*.log
+*.out
+*.gz
