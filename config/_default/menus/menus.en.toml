@@ -6,7 +6,7 @@
 
 [[main]]
   name = "Notes"
-  url = "/docs/prologue/introduction/"
+  url = "/docs"
   weight = 10
 
 [[main]]
