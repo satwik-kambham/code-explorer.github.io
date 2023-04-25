@@ -18,7 +18,7 @@ homepage: false
 
 ![UI Design](UIDesign.png)
 
-The programming language that I am most familiar with at the time of making this project is C++, so that is what I am going to be using for this project. There are many libraries available for making a Graphical User Interface (GUI) in C++ like Qt, wxWidgets, Nana, FLTK, etc. But for this project, I am going to be using Qt as it is really easy to set up and work with. It also has the added benefit of looking great. 
+The programming language that I am most familiar with at the time of making this project is C++, so that is what I am going to be using for this project. There are many libraries available for making a Graphical User Interface (GUI) in C++ like Qt, wxWidgets, Nana, FLTK, etc. But for this project, I am going to be using Qt as it is really easy to set up and work with. It also has the added benefit of looking great.
 
 If you wish to follow along, I strongly recommend using the programming language you are most familiar with and using a GUI library available in that language. Here is the source code for the project: Github repository. This post is not going to be a step by step tutorial on how to make the application, rather the aim of this post is to provide a roadmap for building the project on your own.
 

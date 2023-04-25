@@ -22,7 +22,7 @@ The answer to this is a doubly linked list. A linked list consists of various in
 
 Here is how the application is going to work:
 
-Whenever you go to a new website, a new node is added in front of the current node. And the forward and backward button traverse through the linked list. 
+Whenever you go to a new website, a new node is added in front of the current node. And the forward and backward button traverse through the linked list.
 
 ![Sample](https://1.bp.blogspot.com/-pGiLfNbZJbg/YMBA68WhnYI/AAAAAAAAABs/poYt9jt6K489vz5EQhcsVV6X6pWVX-grQCLcBGAsYHQ/s492/sample.gif)
 

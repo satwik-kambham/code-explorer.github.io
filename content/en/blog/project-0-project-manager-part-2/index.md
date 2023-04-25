@@ -14,7 +14,7 @@ pinned: false
 homepage: false
 ---
 
-In the last part of the blog post, we set up the basic GUI app with all the different buttons but we did not add any functionality. 
+In the last part of the blog post, we set up the basic GUI app with all the different buttons but we did not add any functionality.
 
 Now, we are going to add the functionality to the project manager application. To do this, we need to add a way to store data like the description, changelog, etc. of each project. The best way to store data is by using JSON files.
 
@@ -68,6 +68,7 @@ For my project, I am going to make a hidden directory in the folder containing m
 ```
 
 I am going to store the following:
+
 - Project Name
 - Project Description
 - Project Status
@@ -84,7 +85,7 @@ To implement this into the code, first, we detect whenever a project is selected
 
 ![Phase 1](https://1.bp.blogspot.com/-rIAPoT0K30U/YJzuh5OoFcI/AAAAAAAAAA8/5focWuU3oQwL5QUobBZm1Y9b1mIskCbLACLcBGAsYHQ/s1370/1.gif)
 
-The next step is adding the to-do list and changelog functionality. 
+The next step is adding the to-do list and changelog functionality.
 
 ![Phase 2](https://1.bp.blogspot.com/-OGzjg0bK7UQ/YKepMNKsHXI/AAAAAAAAABE/lIkAX_YRAnw8GRB6-vcaF6TcctAY9z5AwCLcBGAsYHQ/s1370/3.gif)
 

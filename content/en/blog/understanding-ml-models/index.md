@@ -79,6 +79,7 @@ We start by initializing the parameters ( m and c ) of the model.
 We can either initialize them to random values or we can initialize them to zero.
 
 For this example, we will just initialize them to zero.
+
 ```python
 m = 0
 c = 0

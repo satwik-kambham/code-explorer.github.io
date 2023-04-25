@@ -28,4 +28,4 @@ Here are the links to the posts that either implement various data structures an
 
 - Browser linked list implementation
 - Load balancing simulation using queues
-- Analysis of sorting algorithms 
+- Analysis of sorting algorithms
